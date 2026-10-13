@@ -544,16 +544,3 @@ When running `qwenpaw init` interactively, you will be asked whether to opt in. 
 
 ---
 
-## License
-
-QwenPaw is released under the [Apache License 2.0](LICENSE).
-
----
-
-## Contributors
-
-All thanks to our contributors:
-
-<a href="https://github.com/agentscope-ai/QwenPaw/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=agentscope-ai/QwenPaw" alt="Contributors" />
-</a>
